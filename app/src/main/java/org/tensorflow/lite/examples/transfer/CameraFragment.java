@@ -222,7 +222,7 @@ public class CameraFragment extends Fragment  {
             vibratePhone(400);
             playTone(ToneGenerator.TONE_CDMA_ALERT_CALL_GUARD, 500);
             if(!speechDone) {
-              MainActivity.speak("l'objet est devant vous");
+              MainActivity2.speak("l'objet est devant vous");
               speechDone=true;
             }
           }
@@ -389,7 +389,7 @@ public class CameraFragment extends Fragment  {
                   break;
                 case PAUSED:
                   TrainActivity.tlModel.disableTraining();
-                  Intent intent =new Intent(getActivity(), MainActivity.class);
+                  Intent intent =new Intent(getActivity(), MainActivity2.class);
                   startActivity(intent);
 
                   break;
@@ -570,7 +570,7 @@ public class CameraFragment extends Fragment  {
     while(nbrClick<10) {
       nbrClick++;
       addSampleRequests.add(className);
-      MainActivity.speak(""+ nbrClick);
+      MainActivity2.speak(""+ nbrClick);
     }
 
   }

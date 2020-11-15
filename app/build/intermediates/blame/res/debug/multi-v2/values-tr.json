@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/LighthousePersoHmd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
             "map": [
                 {
                     "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/005717a7358c020709f0cd40d10654d4/core-1.1.0-rc01/res/values-tr/values-tr.xml",

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">TFL Transfer</string>
-
+  <string name="app_name">LightHouse</string>
+  <string name="description_info">Info</string>
+  <string name="request_permission">This sample needs camera permission.</string>
+  <string name="camera_error">This device doesn\'t support Camera2 API.</string>
   <string name="inference_mode_title">Inference</string>
   <string name="capture_mode_title">Capture</string>
 
