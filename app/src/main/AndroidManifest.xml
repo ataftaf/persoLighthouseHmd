@@ -16,7 +16,6 @@
       android:theme="@style/AppTheme">
     <activity android:name="org.tensorflow.lite.examples.transfer.addActivity"></activity>
     <activity android:name="org.tensorflow.lite.examples.transfer.TrainActivity"></activity>
-    <activity android:name="org.tensorflow.lite.examples.transfer.MainActivity2"></activity>
     <activity
         android:name=".MainActivity"
         android:exported="true"

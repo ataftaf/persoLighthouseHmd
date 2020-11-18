@@ -91,12 +91,11 @@ public class TrainActivity extends FragmentActivity implements  TextToSpeech.OnI
   public boolean dispatchKeyEvent(KeyEvent event) {
     int action = event.getAction();
     int keyCode = event.getKeyCode();
-    int totalClicks = 0;
     switch (keyCode) {
       case KeyEvent.KEYCODE_VOLUME_UP:
         if (action == KeyEvent.ACTION_DOWN) {
           cameraFragment.addExamples("1");
-          //MainActivity.speak("Veuillez maintenant orienter la caméra vers un autre objet et cliquer sur le bouton volume moins");
+          MainActivity.speakWithoutWait("Merci. Veuillez maintenant orienter la caméra vers un autre objet et cliquer sur le bouton volume moins");
         }
         return true;
 

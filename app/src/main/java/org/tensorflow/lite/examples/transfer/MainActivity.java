@@ -32,7 +32,7 @@ public class MainActivity extends Activity implements TextToSpeech.OnInitListene
 
 
     String bonjour="Bonjour, Que cherchez vous ?";
-    String reBonjour= "Que cherchez vous cette fois?";
+    String reBonjour= "Que cherchez vous ?";
     String messageIntent=null;
     static public String objectName;
     private String mode;
@@ -41,9 +41,10 @@ public class MainActivity extends Activity implements TextToSpeech.OnInitListene
     private Sensor mLightSensor;
     private int mLightQuantity;
     private Sensor mLight;
+    public static boolean trainDone=false;
 
 
-    private TextToSpeech textToSpeech;
+    public static TextToSpeech textToSpeech;
     private static final int REQUEST_OBJECT = 100;
     private Boolean lightCheckOn= false;
     private Boolean lightCheckOff= false;
@@ -52,7 +53,7 @@ public class MainActivity extends Activity implements TextToSpeech.OnInitListene
 
     // Service text to speech: no wait until the speech is finished
 
-    private void speakWithoutWait(String text) {
+    public static void speakWithoutWait(String text) {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             textToSpeech.speak(text, TextToSpeech.QUEUE_ADD, null, null);
 
@@ -86,8 +87,10 @@ public class MainActivity extends Activity implements TextToSpeech.OnInitListene
         addObject.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-               Intent intent =new Intent(MainActivity.this, MainActivity2.class);
-               startActivity(intent);
+                //CameraFragment.trainStatus=true;
+                //speakWithoutWait("Veuillez s'il vous plait placer masque devant la caméra et pressez le bouton volume plus.");
+                //Intent intent =new Intent(MainActivity.this, TrainActivity.class);
+                //startActivity(intent);
             }
         });
     }
@@ -206,7 +209,11 @@ public class MainActivity extends Activity implements TextToSpeech.OnInitListene
                     String text = result.get(0);
 
                     if(text.contains("ajouter")){
-                        speakWithoutWait("Veuillez s'il vous plait cliquer au milieu de l'ecran");
+                        //speakWithoutWait("Veuillez s'il vous plait cliquer au milieu de l'ecran");
+                        CameraFragment.trainStatus=true;
+                        speakWithoutWait("Veuillez s'il vous plait placer masque devant la caméra et pressez le bouton volume plus.");
+                        Intent intent =new Intent(MainActivity.this, TrainActivity.class);
+                        startActivity(intent);
                     }else {
 
                         if (text.contains("je cherche")) {
@@ -251,8 +258,15 @@ public class MainActivity extends Activity implements TextToSpeech.OnInitListene
                             startActivity(myIntent);
 
                         } else {   // when the user choses an object that does not exist in the labelmap file
+                            if(objectName.contains("masque") && trainDone){
+                                CameraFragment.trainStatus=false;
+                                Intent intent= new Intent(MainActivity.this, TrainActivity.class);
+                                startActivity(intent);
 
-                            speak(objectName + " n'existe pas dans ma base de données, veuillez choisir un autre objet ou bien ajouter " + objectName + " à ma base", "FINISHED QUESTION OBJECT");
+                            }else{
+                                speak(objectName + " n'existe pas dans ma base de données, veuillez choisir un autre objet ou bien ajouter " + objectName + " à ma base", "FINISHED QUESTION OBJECT");
+                            }
+
                         }
                     }
 

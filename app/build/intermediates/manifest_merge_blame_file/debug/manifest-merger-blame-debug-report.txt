@@ -28,7 +28,7 @@
 16-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:9:17-65
 17
 18    <application
-18-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:11:3-33:17
+18-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:11:3-32:17
 19        android:allowBackup="false"
 19-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:12:7-34
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -49,59 +49,56 @@
 28        <activity android:name="org.tensorflow.lite.examples.transfer.TrainActivity" />
 28-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:18:5-93
 28-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:18:15-81
-29        <activity android:name="org.tensorflow.lite.examples.transfer.MainActivity2" />
-29-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:19:5-93
-29-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:19:15-81
-30        <activity
-30-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:20:5-28:16
-31            android:name="org.tensorflow.lite.examples.transfer.MainActivity"
-31-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:21:9-37
-32            android:exported="true"
-32-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:22:9-32
-33            android:screenOrientation="portrait" >
-33-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:23:9-45
-34            <intent-filter>
-34-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:24:7-27:23
-35                <action android:name="android.intent.action.MAIN" />
-35-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:25:9-60
-35-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:25:17-58
-36
-37                <category android:name="android.intent.category.LAUNCHER" />
-37-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:26:9-68
-37-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:26:19-66
-38            </intent-filter>
-39        </activity>
-40        <activity
-40-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:29:5-32:57
-41            android:name="org.tensorflow.lite.examples.transfer.DetectorActivity"
-41-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:30:9-78
-42            android:label="@string/activity_name_detection"
-42-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:31:9-56
-43            android:screenOrientation="portrait" />
-43-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:32:9-45
-44
-45        <provider
-45-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:25:9-30:43
-46            android:name="androidx.camera.camera2.impl.Camera2Initializer"
-46-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:26:13-75
-47            android:authorities="org.tensorflow.lite.examples.transfer.camerax-init"
-47-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:27:13-64
-48            android:exported="false"
-48-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:28:13-37
-49            android:initOrder="100"
-49-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:29:13-36
-50            android:multiprocess="true" />
-50-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:30:13-40
-51        <provider
-51-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:23:9-27:43
-52            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-52-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:24:13-79
-53            android:authorities="org.tensorflow.lite.examples.transfer.lifecycle-process"
-53-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:25:13-69
-54            android:exported="false"
-54-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:26:13-37
-55            android:multiprocess="true" />
-55-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:27:13-40
-56    </application>
-57
-58</manifest>
+29        <activity
+29-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:19:5-27:16
+30            android:name="org.tensorflow.lite.examples.transfer.MainActivity"
+30-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:20:9-37
+31            android:exported="true"
+31-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:21:9-32
+32            android:screenOrientation="portrait" >
+32-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:22:9-45
+33            <intent-filter>
+33-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:23:7-26:23
+34                <action android:name="android.intent.action.MAIN" />
+34-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:24:9-60
+34-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:24:17-58
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:25:9-68
+36-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:25:19-66
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:28:5-31:57
+40            android:name="org.tensorflow.lite.examples.transfer.DetectorActivity"
+40-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:29:9-78
+41            android:label="@string/activity_name_detection"
+41-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:30:9-56
+42            android:screenOrientation="portrait" />
+42-->/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:31:9-45
+43
+44        <provider
+44-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:25:9-30:43
+45            android:name="androidx.camera.camera2.impl.Camera2Initializer"
+45-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:26:13-75
+46            android:authorities="org.tensorflow.lite.examples.transfer.camerax-init"
+46-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:27:13-64
+47            android:exported="false"
+47-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:28:13-37
+48            android:initOrder="100"
+48-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:29:13-36
+49            android:multiprocess="true" />
+49-->[androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:30:13-40
+50        <provider
+50-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:23:9-27:43
+51            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:24:13-79
+52            android:authorities="org.tensorflow.lite.examples.transfer.lifecycle-process"
+52-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:25:13-69
+53            android:exported="false"
+53-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:26:13-37
+54            android:multiprocess="true" />
+54-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/bc2f94218db1b9baf43c31e4f677b903/lifecycle-process-2.1.0-rc01/AndroidManifest.xml:27:13-40
+55    </application>
+56
+57</manifest>

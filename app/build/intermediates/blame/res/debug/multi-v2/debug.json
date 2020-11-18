@@ -145,70 +145,6 @@
             ]
         },
         {
-            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/res/values-ko/values-ko.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,294,396,478,576,682,761,837,928,1021,1113,1204,1305,1398,1493,1587,1678,1769,1849,1947,2042,2137,2237,2333,2432,2584,2678",
-                        "endColumns": "94,93,101,81,97,105,78,75,90,92,91,90,100,92,94,93,90,90,79,97,94,94,99,95,98,151,93,77",
-                        "endOffsets": "195,289,391,473,571,677,756,832,923,1016,1108,1199,1300,1393,1488,1582,1673,1764,1844,1942,2037,2132,2232,2328,2427,2579,2673,2751"
-                    }
-                },
-                {
-                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/005717a7358c020709f0cd40d10654d4/core-1.1.0-rc01/res/values-ko/values-ko.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "30",
-                        "startColumns": "4",
-                        "startOffsets": "2756",
-                        "endColumns": "100",
-                        "endOffsets": "2852"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/005717a7358c020709f0cd40d10654d4/core-1.1.0-rc01/res/values-is/values-is.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "30",
-                        "startColumns": "4",
-                        "startOffsets": "2865",
-                        "endColumns": "100",
-                        "endOffsets": "2961"
-                    }
-                },
-                {
-                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/res/values-is/values-is.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,205,302,414,499,600,714,794,874,965,1058,1154,1248,1355,1448,1543,1638,1729,1823,1904,2014,2122,2220,2329,2428,2531,2686,2784",
-                        "endColumns": "99,96,111,84,100,113,79,79,90,92,95,93,106,92,94,94,90,93,80,109,107,97,108,98,102,154,97,80",
-                        "endOffsets": "200,297,409,494,595,709,789,869,960,1053,1149,1243,1350,1443,1538,1633,1724,1818,1899,2009,2117,2215,2324,2423,2526,2681,2779,2860"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
@@ -449,6 +385,70 @@
             ]
         },
         {
+            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/005717a7358c020709f0cd40d10654d4/core-1.1.0-rc01/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2865",
+                        "endColumns": "100",
+                        "endOffsets": "2961"
+                    }
+                },
+                {
+                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,205,302,414,499,600,714,794,874,965,1058,1154,1248,1355,1448,1543,1638,1729,1823,1904,2014,2122,2220,2329,2428,2531,2686,2784",
+                        "endColumns": "99,96,111,84,100,113,79,79,90,92,95,93,106,92,94,94,90,93,80,109,107,97,108,98,102,154,97,80",
+                        "endOffsets": "200,297,409,494,595,709,789,869,960,1053,1149,1243,1350,1443,1538,1633,1724,1818,1899,2009,2117,2215,2324,2423,2526,2681,2779,2860"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,928,1021,1113,1204,1305,1398,1493,1587,1678,1769,1849,1947,2042,2137,2237,2333,2432,2584,2678",
+                        "endColumns": "94,93,101,81,97,105,78,75,90,92,91,90,100,92,94,93,90,90,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,923,1016,1108,1199,1300,1393,1488,1582,1673,1764,1844,1942,2037,2132,2232,2328,2427,2579,2673,2751"
+                    }
+                },
+                {
+                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/005717a7358c020709f0cd40d10654d4/core-1.1.0-rc01/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2756",
+                        "endColumns": "100",
+                        "endOffsets": "2852"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat",
             "map": [
                 {
@@ -481,38 +481,6 @@
             ]
         },
         {
-            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/res/values-sl/values-sl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,212,319,427,514,617,736,821,905,997,1091,1187,1281,1377,1471,1567,1667,1759,1851,1935,2043,2152,2252,2365,2472,2576,2756,2853",
-                        "endColumns": "106,106,107,86,102,118,84,83,91,93,95,93,95,93,95,99,91,91,83,107,108,99,112,106,103,179,96,82",
-                        "endOffsets": "207,314,422,509,612,731,816,900,992,1086,1182,1276,1372,1466,1562,1662,1754,1846,1930,2038,2147,2247,2360,2467,2571,2751,2848,2931"
-                    }
-                },
-                {
-                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/005717a7358c020709f0cd40d10654d4/core-1.1.0-rc01/res/values-sl/values-sl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "30",
-                        "startColumns": "4",
-                        "startOffsets": "2936",
-                        "endColumns": "100",
-                        "endOffsets": "3032"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat",
             "map": [
                 {
@@ -540,6 +508,38 @@
                         "startOffsets": "105,209,309,417,501,601,716,793,869,960,1053,1149,1243,1344,1437,1532,1626,1717,1808,1890,1993,2097,2196,2301,2404,2508,2664,2764",
                         "endColumns": "103,99,107,83,99,114,76,75,90,92,95,93,100,92,94,93,90,90,81,102,103,98,104,102,103,155,99,81",
                         "endOffsets": "204,304,412,496,596,711,788,864,955,1048,1144,1238,1339,1432,1527,1621,1712,1803,1885,1988,2092,2191,2296,2399,2503,2659,2759,2841"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,319,427,514,617,736,821,905,997,1091,1187,1281,1377,1471,1567,1667,1759,1851,1935,2043,2152,2252,2365,2472,2576,2756,2853",
+                        "endColumns": "106,106,107,86,102,118,84,83,91,93,95,93,95,93,95,99,91,91,83,107,108,99,112,106,103,179,96,82",
+                        "endOffsets": "207,314,422,509,612,731,816,900,992,1086,1182,1276,1372,1466,1562,1662,1754,1846,1930,2038,2147,2247,2360,2467,2571,2751,2848,2931"
+                    }
+                },
+                {
+                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/005717a7358c020709f0cd40d10654d4/core-1.1.0-rc01/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2936",
+                        "endColumns": "100",
+                        "endOffsets": "3032"
                     }
                 }
             ]
@@ -609,38 +609,6 @@
             ]
         },
         {
-            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/res/values-fr/values-fr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,331,442,524,630,760,843,923,1014,1107,1206,1301,1402,1495,1588,1683,1774,1865,1951,2061,2173,2276,2387,2494,2601,2760,2859",
-                        "endColumns": "110,114,110,81,105,129,82,79,90,92,98,94,100,92,92,94,90,90,85,109,111,102,110,106,106,158,98,85",
-                        "endOffsets": "211,326,437,519,625,755,838,918,1009,1102,1201,1296,1397,1490,1583,1678,1769,1860,1946,2056,2168,2271,2382,2489,2596,2755,2854,2940"
-                    }
-                },
-                {
-                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/005717a7358c020709f0cd40d10654d4/core-1.1.0-rc01/res/values-fr/values-fr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "30",
-                        "startColumns": "4",
-                        "startOffsets": "2945",
-                        "endColumns": "100",
-                        "endOffsets": "3041"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat",
             "map": [
                 {
@@ -668,6 +636,38 @@
                         "startOffsets": "105,213,317,425,511,616,735,818,900,997,1096,1193,1293,1400,1499,1600,1696,1793,1884,1971,2077,2184,2285,2392,2503,2607,2763,2861",
                         "endColumns": "107,103,107,85,104,118,82,81,96,98,96,99,106,98,100,95,96,90,86,105,106,100,106,110,103,155,97,83",
                         "endOffsets": "208,312,420,506,611,730,813,895,992,1091,1188,1288,1395,1494,1595,1691,1788,1879,1966,2072,2179,2280,2387,2498,2602,2758,2856,2940"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,524,630,760,843,923,1014,1107,1206,1301,1402,1495,1588,1683,1774,1865,1951,2061,2173,2276,2387,2494,2601,2760,2859",
+                        "endColumns": "110,114,110,81,105,129,82,79,90,92,98,94,100,92,92,94,90,90,85,109,111,102,110,106,106,158,98,85",
+                        "endOffsets": "211,326,437,519,625,755,838,918,1009,1102,1201,1296,1397,1490,1583,1678,1769,1860,1946,2056,2168,2271,2382,2489,2596,2755,2854,2940"
+                    }
+                },
+                {
+                    "source": "/home/ala/.gradle/caches/transforms-2/files-2.1/005717a7358c020709f0cd40d10654d4/core-1.1.0-rc01/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2945",
+                        "endColumns": "100",
+                        "endOffsets": "3041"
                     }
                 }
             ]

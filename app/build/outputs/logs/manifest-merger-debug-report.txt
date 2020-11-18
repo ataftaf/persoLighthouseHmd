@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-34:12
 MERGED from [androidx.databinding:databinding-adapters:3.5.3] /home/ala/.gradle/caches/transforms-2/files-2.1/777f835faea3873f33f4c3ca220d395b/databinding-adapters-3.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.5.3] /home/ala/.gradle/caches/transforms-2/files-2.1/006d9bdbd3e057e70c08bfa55584daf9/databinding-runtime-3.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [:transfer_api] /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/transfer_api/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.0.0] /home/ala/.gradle/caches/transforms-2/files-2.1/a0fae3d9013be8f69fa615280ce21ea3/material-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ala/.gradle/caches/transforms-2/files-2.1/9f3ac530cd999c3dc276f567e709324b/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/e222f184d5eea95f9a3cf77879acaf47/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/36d72dafc081f73876f83fda1926ca82/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.camera:camera-core:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/2607b3d756b329ad4557f975f1a8ba82/camera-core-1.0.0-alpha04/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/982b50e5127393ecead488daa04bc065/lifecycle-extensions-2.1.0-rc01/AndroidManifest.xml:17:1-25:12
@@ -45,20 +45,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ala/.gradle/caches/
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ala/.gradle/caches/transforms-2/files-2.1/85a586c95034234c16cf7743d16f1b7f/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/ala/.gradle/caches/transforms-2/files-2.1/208fe0998dc053da51718d47f7f2b832/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ala/.gradle/caches/transforms-2/files-2.1/1ad003232ce20771195d3d339c6b8420/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:3:5-52
 		INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-35:12
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-35:12
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:2:11-69
@@ -83,13 +83,13 @@ ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/An
 	android:name
 		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:9:17-65
 application
-ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:11:3-33:17
+ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:11:3-32:17
 MERGED from [com.google.android.material:material:1.0.0] /home/ala/.gradle/caches/transforms-2/files-2.1/a0fae3d9013be8f69fa615280ce21ea3/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /home/ala/.gradle/caches/transforms-2/files-2.1/a0fae3d9013be8f69fa615280ce21ea3/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ala/.gradle/caches/transforms-2/files-2.1/9f3ac530cd999c3dc276f567e709324b/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ala/.gradle/caches/transforms-2/files-2.1/9f3ac530cd999c3dc276f567e709324b/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/e222f184d5eea95f9a3cf77879acaf47/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
-MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/e222f184d5eea95f9a3cf77879acaf47/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/36d72dafc081f73876f83fda1926ca82/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/36d72dafc081f73876f83fda1926ca82/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
 MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0-rc01] /home/ala/.gradle/caches/transforms-2/files-2.1/982b50e5127393ecead488daa04bc065/lifecycle-extensions-2.1.0-rc01/AndroidManifest.xml:22:5-23:19
@@ -120,36 +120,32 @@ activity#org.tensorflow.lite.examples.transfer.TrainActivity
 ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:18:5-93
 	android:name
 		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:18:15-81
-activity#org.tensorflow.lite.examples.transfer.MainActivity2
-ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:19:5-93
-	android:name
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:19:15-81
 activity#org.tensorflow.lite.examples.transfer.MainActivity
-ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:20:5-28:16
+ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:19:5-27:16
 	android:screenOrientation
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:23:9-45
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:22:9-45
 	android:exported
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:22:9-32
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:21:9-32
 	android:name
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:21:9-37
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:20:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:24:7-27:23
+ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:23:7-26:23
 action#android.intent.action.MAIN
-ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:25:9-60
+ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:24:9-60
 	android:name
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:25:17-58
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:24:17-58
 category#android.intent.category.LAUNCHER
-ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:26:9-68
+ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:25:9-68
 	android:name
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:26:19-66
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:25:19-66
 activity#org.tensorflow.lite.examples.transfer.DetectorActivity
-ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:29:5-32:57
+ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:28:5-31:57
 	android:screenOrientation
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:32:9-45
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:31:9-45
 	android:label
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:31:9-56
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:30:9-56
 	android:name
-		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:30:9-78
+		ADDED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml:29:9-78
 uses-sdk
 INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ala/Bureau/AAAFewLearningHmd/persoLighthouseHmd/app/src/main/AndroidManifest.xml
@@ -166,8 +162,8 @@ MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ala/.gradle/caches/transf
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ala/.gradle/caches/transforms-2/files-2.1/0cf0ce774afedddbfc813f566e3b2f9e/appcompat-1.0.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ala/.gradle/caches/transforms-2/files-2.1/9f3ac530cd999c3dc276f567e709324b/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ala/.gradle/caches/transforms-2/files-2.1/9f3ac530cd999c3dc276f567e709324b/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/e222f184d5eea95f9a3cf77879acaf47/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
-MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/e222f184d5eea95f9a3cf77879acaf47/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/36d72dafc081f73876f83fda1926ca82/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/ala/.gradle/caches/transforms-2/files-2.1/36d72dafc081f73876f83fda1926ca82/tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
 MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/b0e362933055fd851f642319cfb784bc/camera-camera2-1.0.0-alpha04/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.camera:camera-core:1.0.0-alpha04] /home/ala/.gradle/caches/transforms-2/files-2.1/2607b3d756b329ad4557f975f1a8ba82/camera-core-1.0.0-alpha04/AndroidManifest.xml:20:5-22:41
